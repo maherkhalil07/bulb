@@ -1,0 +1,28 @@
+محتوي الكورس
+نبدأ الاول بجزء ال Frontend
+HTML
+HTML 5
+CSS
+CSS3
+SASS
+Bootstrap 4
+JavaScript
+Regular expressions
+ECMAScript 6+
+Type Script
+JQuery
+angular 9
+AJAX
+JSON
+Hosting and domains
+Freelancing tips and tricks
+🔴محتوي الBackend هيبقي عبارة عن 3 Track كل طالب هيختار اكتر Track هيناسبه منهم :
+1- PHP , My sql , laravel , wordpress
+2- C# , Sql - server, Asp.net core
+3 - Node.JS , Express.JS , Mongo DB
+و دي حاجات مشتركة كل الناس هياخدوها :
+OOP
+Design Patterns
+agile
+Scrum
+Software development process
